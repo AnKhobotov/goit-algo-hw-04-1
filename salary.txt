@@ -1,0 +1,5 @@
+Korp,3000
+Borisenko,2000
+Raju,1000
+Ko,3500
+KMo,31000.67
