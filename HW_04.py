@@ -132,7 +132,7 @@ def main():
                 print(add_contact(args, contacts))
             elif command == "change":
                 print(change_contact(args, contacts))
-            elif command == "show":
+            elif command == "phone":
                 print(show_phone(args, contacts))
             elif command == "all":
                 print(contacts)
